@@ -1,0 +1,8 @@
+export const TOGGLE_FILTER = "TOGGLE_FILTER";
+export const SEARCH_GUEST = "SEARCH_GUEST";
+export const CLEAR_SEARCH = "CLEAR_SEARCH";
+export const ADD_GUEST = "ADD_GUEST";
+export const REMOVE_GUEST = "REMOVE_GUEST";
+export const TOGGLE_CONFIRM_GUEST = "TOGGLE_CONFIRM_GUEST";
+export const UPDATE_GUEST = "UPDATE_GUEST";
+export const CLEAR_UPDATE_GUEST = "CLEAR_UPDATE_GUEST";
